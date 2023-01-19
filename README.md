@@ -63,7 +63,7 @@ where y_test is the test data set for the target variable, and y_pred is the var
 - statsmodel (variance_inflation_factor, sm)
 
 ## Code Implementation & Document
-**Refer the Python jupyter notebook and subjective questions document in this repository**
+**Refer the Python jupyter notebook and subjective questions document present in this repository**
 
 ## Contributors
 - [Ganesh Jalakam](https://github.com/GaneshJalakam)
